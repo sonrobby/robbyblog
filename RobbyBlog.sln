@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobbyBlog", "RobbyBlog\RobbyBlog.csproj", "{6FEA00C5-A8A7-4017-B8A2-82B12FF04489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobbyBlog.Core", "RobbyBlog.Core\RobbyBlog.Core.csproj", "{02CA1DDD-8CAF-480E-8E35-F4DE90C6DDF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEA00C5-A8A7-4017-B8A2-82B12FF04489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEA00C5-A8A7-4017-B8A2-82B12FF04489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEA00C5-A8A7-4017-B8A2-82B12FF04489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEA00C5-A8A7-4017-B8A2-82B12FF04489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CA1DDD-8CAF-480E-8E35-F4DE90C6DDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CA1DDD-8CAF-480E-8E35-F4DE90C6DDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CA1DDD-8CAF-480E-8E35-F4DE90C6DDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CA1DDD-8CAF-480E-8E35-F4DE90C6DDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
