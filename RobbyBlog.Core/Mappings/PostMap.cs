@@ -43,7 +43,7 @@ namespace RobbyBlog.Core.Mappings
 
             Map(x => x.Modified);
 
-            References(x => x.Category.Id)
+            References(x => x.Category)
                 .Column("Category")
                 .Not.Nullable();
 
